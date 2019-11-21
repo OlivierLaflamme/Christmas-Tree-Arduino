@@ -1,6 +1,6 @@
 # Christmas-Tree-Arduino
 
-###Connections   
+### Connections   
 5v--------------------VCC  
 GND-----------------GND  
 SDA/A4--------------SDA  
